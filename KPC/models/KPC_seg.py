@@ -1,10 +1,3 @@
-'''
-@Project ：kpc_exp 
-@File    ：KPC_seg.py
-@IDE     ：PyCharm 
-@Author  ：liangdegao
-@Date    ：2025/3/3 11:24 
-'''
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
