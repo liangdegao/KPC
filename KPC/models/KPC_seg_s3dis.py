@@ -10,7 +10,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 from models.pointnet2_utils import PointNetSetAbstraction, PointNetFeaturePropagation
 from apes_transformer.apes_trans import IMFF
-from apes_transformer.p2pn import PnP3D
 import math
 
 
