@@ -1,10 +1,3 @@
-'''
-@Project ：pointnet_walk_1 
-@File    ：KPC_cls.py
-@IDE     ：PyCharm 
-@Author  ：liangdegao
-@Date    ：2025/3/17 13:40 
-'''
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
